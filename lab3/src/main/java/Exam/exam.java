@@ -7,7 +7,7 @@ public class exam {
     {
         /*
          * @param principal [This is to substitute the principal value]
-         * @param rate [This is to substitute the value of rate]
+         * @param rate [This is to subsjjjtitute the value of rate]
          * @param time [This is to substitute the value of time]
          */
         return principal*rate*time/100; //@return the interest
